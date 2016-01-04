@@ -1,3 +1,8 @@
+# Note
+
+This repository is a fork of `PracticallyGreen/omniauth-saml` with two pull requests applied.
+Please refer to this repository for new pull requests or issues.
+
 # OmniAuth SAML
 
 A generic SAML strategy for OmniAuth.
